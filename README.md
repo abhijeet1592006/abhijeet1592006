@@ -1,5 +1,5 @@
-# ABHIJEET SINGH:
-A Curious mind diving headfirst into the world of code and creation.<br><br>I am pursuing first-year B.Tech from Dr. Akhilesh Das Gupta Institute of Professional Studies in New Delhi<br><br>Right now, I’m tinkering with all kinds of programming and AI projects — learning by building, breaking, and building again.<br><br>"AI for coders is same as calculators for mathematicians — A calculator can compute faster, but it can’t invent the formula — only the human mind can."<br><br><br>Let’s code the future. 🌐
+# ⭐ ABHIJEET SINGH ⭐
+A Curious mind diving headfirst into the world of code and creation.<br><br>I am pursuing first-year B.Tech from Dr. Akhilesh Das Gupta Institute of Professional Studies in New Delhi<br><br>Right now, I’m tinkering with all kinds of programming and AI projects — learning by building, breaking, and building again.<br><br>"**AI for coders is same as calculators for mathematicians — A calculator can compute faster, but it can’t invent the formula — only the human mind can.**"<br><br><br>Let’s code the future. 🌐
 
 
 
